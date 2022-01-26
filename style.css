@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Avenir Next";
+  background-image: url(asset/awan.svg);
+  background-color: #86D1DA;
+  background-size: cover;
+}
+.header {
+  background-color:#2B3031;
+  color:#fff;
+  height:60px;
+  width: 100%;
+}
+.header-logo{
+  float:left;
+  font-size:36px;
+  padding:10px;
+  padding-left: 200px;
+}
+.header-home{
+  float: left;
+}
+.header-home h2 {
+  float:left;
+  padding-left: 8px;
+  padding-right: 40px;
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
+.header-home a{
+  text-decoration: none;
+}
+.header-right{
+  float: right;
+}
+.header-right h2{
+  float:right;
+  padding-right: 80px;
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
+.header-right a{
+  text-decoration: none;
+}
+.judul{
+  margin-top: 100px;
+  margin-left: -700px;
+  color: white;
+  font-size: 20px;
+  line-height: 15px;
+}
+.page{
+  color: white;
+  margin-left: 150px;
+  line-height: 15px;
+  margin-top: 100px;
+}
+img{
+  margin-top: -137px;
+  margin-left: 56%;
+}

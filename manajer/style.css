@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Avenir Next";
+  background-color: #86D1DA;
+}
+.header {
+  background-color:#2B3031;
+  color:#fff;
+  height:60px;
+  width: 100%;
+}
+.header-logo{
+  float:left;
+  font-size:36px;
+  padding:10px;
+  padding-left: 200px;
+}
+.header-home{
+  float: left;
+}
+.header-home h2 {
+  float:left;
+  padding-left: 8px;
+  padding-right: 40px;
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
+.header-home a{
+  text-decoration: none;
+}
+.header-right{
+  float: right;
+}
+.header-right h2{
+  float:right;
+  padding-right: 80px;
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
+.header-right a{
+  text-decoration: none;
+}
+.box-1{
+  float: left;
+  width: 310px;
+  height: 230px;
+  border:solid 3px black;
+  margin-left: 38%;
+  border-radius: 20px;
+
+}
+.kelompok{
+  float: left;
+  margin-left: 240px;
+  margin-top: 70px;
+}
+
+.judul{
+  margin-top: -10px;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+.box-1 img{
+  padding-top: 50px;
+  padding-left: 120px;
+}
+.barang{
+  margin-top: 30px;
+  text-transform: uppercase;
+}
+a{
+  text-decoration: none;
+  color: black;
+}

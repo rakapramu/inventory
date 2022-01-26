@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Avenir Next";
+  background-color: #86D1DA;
+}
+.header {
+  background-color:#2B3031;
+  color:#fff;
+  height:60px;
+  width: 100%;
+}
+.header-logo{
+  float:left;
+  font-size:36px;
+  padding:10px;
+  padding-left: 200px;
+}
+.header-home{
+  float: left;
+}
+.header-home h2 {
+  float:left;
+  padding-left: 8px;
+  padding-right: 40px;
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
+.header-home a{
+  text-decoration: none;
+}
+.header-right{
+  float: right;
+}
+.header-right h2{
+  float:right;
+  padding-right: 80px;
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
+.judul{
+  margin-left: 200px;
+  text-transform: uppercase;
+}
+.content{
+  margin-left: 200px;
+}
+.tombol{
+  background-color: #858585;
+  width: 130px;
+  height: 30px;
+  border-radius: 5px;
+  margin-left: 55%;
+  margin-top: 20%;
+}
+a{
+  text-decoration: none;
+}
+
+#simpan{
+  border: none;
+  color: #ffff;
+  background-color: #858585;
+  cursor: pointer;
+}
+.isi input{
+  padding-top: 5px;
+  padding-left: 10px;
+}
+.isi{
+  float: left;
+}
+.isi i{
+  padding-left: 30px;
+  padding-top: 5px;
+}
+.tombol-2{
+  background-color: #1EC138;
+  width: 130px;
+  height: 30px;
+  border-radius: 5px;
+  margin-left: 66%;
+  margin-top: -30px;
+}
+.isi-2 input{
+  padding-top: 5px;
+  padding-left: 10px;
+}
+.isi-2{
+  float: left;
+}
+.isi-2 i{
+  padding-left: 30px;
+  padding-top: 5px;
+}
+#simpan-2{
+  border: none;
+  color: #ffff;
+  background-color: #1EC138;
+  cursor: pointer;
+}
+.list{
+  margin-left: 200px;
+  margin-bottom: 10px;
+}
